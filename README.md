@@ -50,12 +50,9 @@ Persistência
 
 Entity Framework Core
 
-Banco relacional (ex.: SQL Server / SQLite – ajustar conforme seu projeto).
+Banco relacional SQLite.
 ​
-
-Outros
-
-Swagger / OpenAPI para documentação dos endpoints (se estiver habilitado).
+Swagger.
 ​
 
 Ferramentas de desenvolvimento: Visual Studio / VS Code, Git e GitHub.
