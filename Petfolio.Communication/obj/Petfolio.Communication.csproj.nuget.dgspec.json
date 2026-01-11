@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leand\\Desktop\\Estudos\\Estudos RockSeat\\Formação C#\\Petfolio\\Petfolio.Communication\\Petfolio.Communication.csproj": {}
+    "C:\\Users\\leand\\Desktop\\Estudos\\Estudos RockSeat\\Formação C#\\Clones\\PetFolio\\Petfolio.Communication\\Petfolio.Communication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leand\\Desktop\\Estudos\\Estudos RockSeat\\Formação C#\\Petfolio\\Petfolio.Communication\\Petfolio.Communication.csproj": {
+    "C:\\Users\\leand\\Desktop\\Estudos\\Estudos RockSeat\\Formação C#\\Clones\\PetFolio\\Petfolio.Communication\\Petfolio.Communication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leand\\Desktop\\Estudos\\Estudos RockSeat\\Formação C#\\Petfolio\\Petfolio.Communication\\Petfolio.Communication.csproj",
+        "projectUniqueName": "C:\\Users\\leand\\Desktop\\Estudos\\Estudos RockSeat\\Formação C#\\Clones\\PetFolio\\Petfolio.Communication\\Petfolio.Communication.csproj",
         "projectName": "Petfolio.Communication",
-        "projectPath": "C:\\Users\\leand\\Desktop\\Estudos\\Estudos RockSeat\\Formação C#\\Petfolio\\Petfolio.Communication\\Petfolio.Communication.csproj",
+        "projectPath": "C:\\Users\\leand\\Desktop\\Estudos\\Estudos RockSeat\\Formação C#\\Clones\\PetFolio\\Petfolio.Communication\\Petfolio.Communication.csproj",
         "packagesPath": "C:\\Users\\leand\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leand\\Desktop\\Estudos\\Estudos RockSeat\\Formação C#\\Petfolio\\Petfolio.Communication\\obj\\",
+        "outputPath": "C:\\Users\\leand\\Desktop\\Estudos\\Estudos RockSeat\\Formação C#\\Clones\\PetFolio\\Petfolio.Communication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
