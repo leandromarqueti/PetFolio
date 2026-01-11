@@ -56,7 +56,8 @@
               "RelativeToolTip": "Petfolio.Communication\\Responses\\ResponseErrorsJson.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T19:19:23.829Z"
+              "WhenOpened": "2026-01-11T19:19:23.829Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -68,7 +69,8 @@
               "RelativeToolTip": "Petfolio.Application\\UseCases\\Pets\\Update\\UpdatePetUseCase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T18:52:47.044Z"
+              "WhenOpened": "2026-01-11T18:52:47.044Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -80,7 +82,8 @@
               "RelativeToolTip": "Petfolio.Communication\\Requests\\RequestPetJson.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T18:44:51.405Z"
+              "WhenOpened": "2026-01-11T18:44:51.405Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -92,7 +95,8 @@
               "RelativeToolTip": "Petfolio.Application\\UseCases\\Pets\\Register\\RegisterPetUseCase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-11T18:26:34.005Z"
+              "WhenOpened": "2026-01-11T18:26:34.005Z",
+              "EditorCaption": ""
             }
           ]
         }
